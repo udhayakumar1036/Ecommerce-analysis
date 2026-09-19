@@ -110,3 +110,17 @@ SQL Server was used to perform business analysis including:
 ## Project Outcome
 
 The project demonstrates an end-to-end data analytics workflow, from data cleaning and exploratory analysis to SQL analysis, customer segmentation, and business recommendations
+## Power BI Dashboard
+
+The project includes an interactive Power BI dashboard covering:
+
+- Monthly Revenue Trends
+- Top 10 Products by Revenue
+- Top 10 Countries by Revenue
+- Top 10 Customers by Revenue
+- Top 10 Products by Quantity
+- Business Insights and Recommendations
+
+### Dashboard Preview
+
+![Power BI Dashboard](powerbi_dashboard.png)
